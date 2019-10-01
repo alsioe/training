@@ -9,4 +9,4 @@ GitHub is a hosting platform for **git** (version control system).
 
 # Athina's changes
 
-My first edit to your document.
+**My first edit to your document.**
